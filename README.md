@@ -1,4 +1,6 @@
 # git-log-analysis-with-kibana
+Visualizes git history - prepares helpful dashboards in Kibana based on parsed git log.
+Besides, it shows volume of changes (in loc) done by individual developer.
 
 ## Setup
 1. Install ELK
